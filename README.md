@@ -13,7 +13,7 @@
         <li><a href="#"></a></li>
         <li><a href="#"></a></li>
         </ul>
-        <a style="color: white; font-size: 25px;" href="https://mcallisterschool.github.io/places/">home</a>
+        <a style="color: white; font-size: 25px;" href="arc-conte.github.io/places/">home</a>
         <script>
             function myFunction() {
                 var input, filter, ul, li, a, i, txtValue;
